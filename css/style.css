@@ -143,6 +143,7 @@ body{
     background: url(../assets/images/woman-code.png);
     background-size:cover;
     background-position: center;
+    background-attachment: fixed;
     border-bottom: 2px solid #31a8dd;
 }
 
